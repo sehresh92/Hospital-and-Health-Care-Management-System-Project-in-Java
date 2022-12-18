@@ -13,4 +13,22 @@ In this project, I haved created six tables. 1st table name is "DOCTOR SECTION" 
 3rd table name is "MEDICINE SECTION" , 4th table name is "LABORATORY SECTION", 5th table name is "HOSPITAL FACILITY SECTION"
 and 6th table name is "STAFF SECTION".I have already saved some data in each table. 
 
- 
+To run this project you will need a JDK installed on your system . Download it and open this project in your code editor. Then there is HospitalManagement.java file which you can modify. Run that file through the command prompt.
+
+How to run this Hospital and Health Care Management System Project on your computer:
+
+open a command prompt by pressing win+r simultaneously and go to the location of the project by using the cd command:
+
+CD desktop
+
+CD “folder name”
+
+javac HospitalManagement.java
+
+Now, run the java source code then it will start the Hospital and Health Care Management System Project in Java on your computer.
+
+You can download my Hospital and Health Care Management System Project from the following link:
+
+https://github.com/sehresh92/Hospital-and-Health-Care-Management-System-Project-in-Java
+
+
