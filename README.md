@@ -31,4 +31,8 @@ You can download my Hospital and Health Care Management System Project from the 
 
 https://github.com/sehresh92/Hospital-and-Health-Care-Management-System-Project-in-Java
 
+you can download and check my Hospital and Health Care Management System java source code from the following link:
+
+https://github.com/sehresh92/Hospital-and-Health-Care-Management-System-Project-in-Java/tree/main/Hospital%20Management%20Project
+
 
